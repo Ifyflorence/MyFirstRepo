@@ -16,4 +16,9 @@
 - **Size**: Choose the size of the VM based on your requirements.
 - **Authentication type**: Choose how you want to connect to the VM (SSH key or password for Linux, password for Windows).
 - **Username/Password or SSH public key**: Provide the necessary credentials.
-- 
+- Click "Next" to proceed to the Disks tab. Configure the disk settings according to your needs.
+- Click "Next" to move to the Networking tab. Configure network settings, such as Virtual Network, Subnet, Public IP, and Network Security Group.
+- Click "Next" to go to the Management tab. Set any optional configurations, such as Boot diagnostics, Auto-shutdown, etc.
+- Click "Review + create" to review your settings. If everything looks good, click "Create."
+- Azure will validate your configuration. Once validation passes, click "Create" to deploy the virtual machine.
+## Step 4: Monitor deployment progress
