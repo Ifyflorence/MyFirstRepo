@@ -1,7 +1,7 @@
 # How To Create And Deploy A Virtual Maching In Azure   
 ![image](https://github.com/Ifyflorence/MyFirstRepo/assets/99063459/ca62baff-e5ba-476a-9950-5768734d3d44)
 ## Step 1: Sign in to Azure Portal
-- Open your web browser and go to the [Azure Portal](https://portal.azure.com/).  \
+- Open your web browser and go to the [Azure Portal](https://portal.azure.com/).  
 - Sign in with your Azure account.
 ## Step 2: Navigate to the Virtual Machines service  
 - In the Azure Portal, click on "Create a resource" on the left-hand side.
